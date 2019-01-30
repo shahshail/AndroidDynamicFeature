@@ -22,7 +22,7 @@ android {
     }
 
 
-    dynamicFeatures = [":image_feature"]
+    dynamicFeatures = [":image_feature", ":image_large_feature"]
 
 
 }
