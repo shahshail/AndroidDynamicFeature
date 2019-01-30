@@ -9,4 +9,8 @@
         tools:showIn="@layout/activity_image"
         tools:context=".ImageActivity">
 
+    <android.support.v7.widget.AppCompatImageView android:layout_width="match_parent"
+                                                  android:layout_height="match_parent"
+    android:src="@drawable/android"/>
+
 </android.support.constraint.ConstraintLayout>
